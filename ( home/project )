@@ -1,0 +1,4 @@
+# This will create the repo and push in one go
+gh repo create makers-vault --public --source=. --remote=origin --push
+
+
